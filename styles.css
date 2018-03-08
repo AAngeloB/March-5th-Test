@@ -1,14 +1,17 @@
+body{
+	background-color: lightgreen;
+
+}
+
 #container{
 	background-color: lightblue;
-	border: 2px solid;
+	border: 10px solid;
 	border-color: lightpink;
 	padding: 20px;
 }
 
 .article{
 	font-family: sans-serif;
-	border: 1px solid;
-	background-color: lightgreen;
-	
-	
+	border: 3px solid;
+	background-color: lightpink;
 }
